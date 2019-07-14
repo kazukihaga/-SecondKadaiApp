@@ -14,6 +14,7 @@
 		52BC9D8122DB7DF40038E0BE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52BC9D7F22DB7DF40038E0BE /* LaunchScreen.storyboard */; };
 		52BC9D8C22DB7DF40038E0BE /* SecondKadaiAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BC9D8B22DB7DF40038E0BE /* SecondKadaiAppTests.swift */; };
 		52BC9D9722DB7DF40038E0BE /* SecondKadaiAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BC9D9622DB7DF40038E0BE /* SecondKadaiAppUITests.swift */; };
+		52BC9DA522DB7F340038E0BE /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52BC9DA422DB7F340038E0BE /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		52BC9D9222DB7DF40038E0BE /* SecondKadaiAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SecondKadaiAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		52BC9D9622DB7DF40038E0BE /* SecondKadaiAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondKadaiAppUITests.swift; sourceTree = "<group>"; };
 		52BC9D9822DB7DF40038E0BE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52BC9DA422DB7F340038E0BE /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				52BC9D7622DB7DF00038E0BE /* AppDelegate.swift */,
 				52BC9D7822DB7DF00038E0BE /* ViewController.swift */,
 				52BC9D7A22DB7DF00038E0BE /* Main.storyboard */,
+				52BC9DA422DB7F340038E0BE /* ResultViewController.swift */,
 				52BC9D7D22DB7DF40038E0BE /* Assets.xcassets */,
 				52BC9D7F22DB7DF40038E0BE /* LaunchScreen.storyboard */,
 				52BC9D8222DB7DF40038E0BE /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				52BC9D7922DB7DF00038E0BE /* ViewController.swift in Sources */,
 				52BC9D7722DB7DF00038E0BE /* AppDelegate.swift in Sources */,
+				52BC9DA522DB7F340038E0BE /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
